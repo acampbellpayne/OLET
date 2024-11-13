@@ -19,6 +19,6 @@ Options:
    * Any USB or bluetooth keyboard should work
 
 Substitutions:
-   * Michigan Synth Works' 5vampire costs $15 and lets the Raspberry Pi to run on any eurorack power supply that provides enough 5V power, but adds $7.05 (plus tax + shipping) to the total
+   * Michigan Synth Works' 5vampire costs $15 and lets the Raspberry Pi run on any eurorack power supply that provides enough 5V power, but adds $7.05 (plus tax + shipping) to the total
    * The Pimoroni Display HAT Mini (SKU 1824) costs $22.95 and allows for the use of an 8hp panel for smaller systems and cuts $43 from the total (an angled micro USB cable will most likely be required for power input, since clearance with other modules gets very tight at this width)
    * It's possible to run the whole setup headless and SSH into the Pi from a laptop, which negates the need for a screen or front panel and cuts $65.95 from the total
