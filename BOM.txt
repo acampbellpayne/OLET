@@ -1,0 +1,24 @@
+Main Build (all prices and SKU numbers obtained from pishop.us):
+   * Pimoroni HyperPixel 4.0 Square (SKU 781-1), $65.95
+   * Raspberry Pi Zero Wireless WH (SKU 1052), $16
+   * Waveshare 4 Port USB HUB HAT for Raspberry Pi (SKU 957), $10.95
+   * SanDisk MicroSD Card (SKU 964), $9.95
+   * Micro-USB Power Supply (SKU 1260), $7.95
+
+Total Cost: $110.80 (plus tax + shipping)
+
+Notes:
+   * Any generic USB power supply that provides 1 Amp or more should be fine
+   * Any generic MicroSD card should also be fine, although some are more reliable and performant than others
+
+
+Options:
+   * 18-20hp eurorack panel: get a blank panel and drill the requisite holes or fabricate a custom panel (design forthcoming for 3d fabrication)
+   * Adafruit carries some USB breakout cables that allow for panel-mounting the power input (Adafruit Product ID 927, $3.95) and USB connections (Adafruit Product ID 908, $3.95)
+   * Any class-compliant USB-MIDI interface should work, and can be found for as little as ~$20
+   * Any USB or bluetooth keyboard should work
+
+Substitutions:
+   * Michigan Synth Works' 5vampire costs $15 and lets the Raspberry Pi to run on any eurorack power supply that provides enough 5V power, but adds $7.05 (plus tax + shipping) to the total
+   * The Pimoroni Display HAT Mini (SKU 1824) costs $22.95 and allows for the use of an 8hp panel for smaller systems and cuts $43 from the total (an angled micro USB cable will most likely be required for power input, since clearance with other modules gets very tight at this width)
+   * It's possible to run the whole setup headless and SSH into the Pi from a laptop, which negates the need for a screen or front panel and cuts $65.95 from the total
